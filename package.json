@@ -37,7 +37,7 @@
     "istanbul": "^0.4.2",
     "lolex": "^1.5.0",
     "mocha": "^3.4.2",
-    "nock": "^8.2.1",
+    "nock": "^9.0.3",
     "supertest": "^2.0.1"
   },
   "scripts": {
